@@ -19,7 +19,7 @@
       </p>
       <p align="left">
         📫 <b>Reach me at:</b> <br>
-        🔗 <a href="https://t.me/i_limon_i">t.me/i_limon_i</a> <br>
+        🔗 <a href="https://t.me/LimCoreChannel">https://t.me/LimCoreChannel</a> <br>
         🔗 <a href="https://e-z.bio/l_limon_l">e-z.bio/l_limon_l</a> <br>
         🔗 <a href="https://fakecrime.bio/l_limon_l">fakecrime.bio/l_limon_l</a>
       </p>
