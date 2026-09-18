@@ -64,7 +64,6 @@
         <br>
         <li>🧩 <a href="https://github.com/l-limon-l/Modrinth-Lite"><b>Modrinth-Lite</b></a><br><i>Lightweight Modrinth App build — no ads, no News tab, no "Modrinth+" promos. Built from official sources.</i></li>
         <br>
-        <li>🔓 <a href="https://github.com/l-limon-l/antigravity-patcher"><b>antigravity-patcher</b></a><br><i>Utility for bypassing regional restrictions in Antigravity IDE.</i></li>
       </ul>
     </td>
     <td width="33%" valign="top">
