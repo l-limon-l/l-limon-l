@@ -4,7 +4,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Breaking+DPI%2C+not+the+internet;Building+stealthy+desktop+utilities;Automating+daily+tasks;Crafting+modern+web+experiences;Writing+clean+and+elegant+code" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Breaking+DPI%2C+not+the+internet;Building+VPN+clients+for+Android+and+Windows;Building+stealthy+desktop+utilities;Automating+daily+tasks;Crafting+modern+web+experiences;Writing+clean+and+elegant+code" alt="Typing SVG" />
   </a>
 </div>
 
@@ -15,7 +15,7 @@
     <td align="center" width="50%">
       <h2>👨‍💻 About Me</h2>
       <p align="left">
-        I'm a passionate developer focused on building <b>unconventional</b> and <b>highly useful</b> tools. My work ranges from OpenWrt networking software and anti-censorship tooling, to completely stealthy Windows desktop applications, complex automation scripts, and fully localized modern web templates.
+        I'm a passionate developer focused on building <b>unconventional</b> and <b>highly useful</b> tools. My work ranges from Xray-based VPN clients for Android and Windows, OpenWrt networking software and anti-censorship tooling, to stealthy Windows desktop applications and automation scripts.
       </p>
       <p align="left">
         📫 <b>Reach me at:</b> <br>
@@ -27,15 +27,19 @@
     <td align="center" width="50%">
       <h2>🛠️ Tech Arsenal</h2>
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=py,cs,js,ts,html,css" />
+        <img src="https://skillicons.dev/icons?i=kotlin,cpp,qt,go,py,cs" />
       </a>
       <br><br>
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,vite,bash" />
+        <img src="https://skillicons.dev/icons?i=androidstudio,gradle,js,ts,html,css" />
       </a>
       <br><br>
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=lua,linux,git,github,vscode" />
+        <img src="https://skillicons.dev/icons?i=react,tailwind,nodejs,vite,bash,lua" />
+      </a>
+      <br><br>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=linux,git,github,vscode" />
       </a>
     </td>
   </tr>
@@ -44,6 +48,25 @@
 ---
 
 <h2 align="center">🔥 Featured Projects</h2>
+
+<h3 align="center">🛡️ LimCore VPN</h3>
+
+<table align="center">
+  <tr>
+    <td width="50%" valign="top">
+      <ul align="left">
+        <li>📱 <a href="https://github.com/l-limon-l/LimCore-Android"><b>LimCore for Android</b></a><br><i>Xray-core VPN client for Android. Full Xray JSON subscriptions with balancers, routing and DNS, share links, manual servers, per-app split tunneling with one-tap selection of Russian apps, delay tests and self-updates.</i></li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <ul align="left">
+        <li>🪟 <a href="https://github.com/l-limon-l/LimCore-Desktop"><b>LimCore for Windows</b></a><br><i>Xray-core VPN client for Windows built with C++/Qt. System proxy, TUN and mixed modes, tray control, per-app proxy, routing rules and a background service that runs TUN without admin rights.</i></li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+<br>
 
 <table align="center">
   <tr>
@@ -70,10 +93,6 @@
       <h3 align="center">🌍 Web & Automation</h3>
       <ul align="left">
         <li>🤖 <a href="https://github.com/l-limon-l/Claw"><b>Claw</b></a><br><i>Auto-complete every Discord Quest in seconds. One script, all rewards, zero dependencies.</i></li>
-        <br>
-        <li>✨ <a href="https://github.com/l-limon-l/Lumina"><b>Lumina</b></a><br><i>A modern, responsive, and fully localized Next.js landing page template.</i></li>
-        <br>
-        <li>💻 <a href="https://github.com/l-limon-l/Terminus"><b>Terminus</b></a><br><i>A sleek, developer-first HTML/CSS landing page template with a terminal-inspired aesthetic and built-in localization.</i></li>
         <br>
         <li>🌙 <a href="https://github.com/l-limon-l/midnight-discord"><b>midnight-discord</b></a><br><i>A custom Midnight CSS theme for a sleek Discord experience.</i></li>
       </ul>
