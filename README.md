@@ -55,12 +55,12 @@
   <tr>
     <td width="50%" valign="top">
       <ul align="left">
-        <li>📱 <a href="https://github.com/l-limon-l/LimCore-Android"><b>LimCore for Android</b></a><br><i>Xray-core VPN client for Android. Full Xray JSON subscriptions with balancers, routing and DNS, share links, manual servers, per-app split tunneling with one-tap selection of Russian apps, delay tests and self-updates.</i></li>
+        <li>📱 <a href="https://github.com/l-limon-l/LimCore-Android"><b>LimCore for Android</b></a><br><i>VPN client for Android based on Xray-core. Subscriptions, share links and manual server setup, per-app split tunneling, routing and automatic updates.</i></li>
       </ul>
     </td>
     <td width="50%" valign="top">
       <ul align="left">
-        <li>🪟 <a href="https://github.com/l-limon-l/LimCore-Desktop"><b>LimCore for Windows</b></a><br><i>Xray-core VPN client for Windows built with C++/Qt. System proxy, TUN and mixed modes, tray control, per-app proxy, routing rules and a background service that runs TUN without admin rights.</i></li>
+        <li>🪟 <a href="https://github.com/l-limon-l/LimCore-Desktop"><b>LimCore for Windows</b></a><br><i>VPN client for Windows based on Xray-core, built with C++/Qt. System proxy and TUN modes, tray control, per-app proxy, routing and automatic updates.</i></li>
       </ul>
     </td>
   </tr>
@@ -118,7 +118,7 @@
 <br>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=l-limon-l&amp;theme=tokyo-night&amp;hide_border=true&amp;area=true" width="100%" alt="Activity Graph" />
+  <img src="https://ghchart.rshah.org/7AA2F7/l-limon-l" width="100%" alt="Contributions" />
 </div>
 
 <div align="center">
