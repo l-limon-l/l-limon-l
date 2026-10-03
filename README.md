@@ -117,9 +117,13 @@
 
 <br>
 
-<div align="center">
-  <img src="https://ghchart.rshah.org/7AA2F7/l-limon-l" width="100%" alt="Contributions" />
-</div>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/l-limon-l/l-limon-l/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/l-limon-l/l-limon-l/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/l-limon-l/l-limon-l/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&section=footer" />
