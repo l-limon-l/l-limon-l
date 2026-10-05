@@ -49,18 +49,22 @@
 
 <h2 align="center">🔥 Featured Projects</h2>
 
-<h3 align="center">🛡️ LimCore VPN</h3>
+<h3 align="center">🛡️ <a href="https://github.com/l-limon-l/LimCore">LimCore VPN</a></h3>
+
+<p align="center">
+  <a href="https://github.com/l-limon-l/LimCore"><img src="https://img.shields.io/badge/Download-Android%20%C2%B7%20Windows-f2f2f2?style=for-the-badge&logo=github&logoColor=white&labelColor=161616" alt="Download LimCore for Android and Windows" /></a>
+</p>
 
 <table align="center">
   <tr>
     <td width="50%" valign="top">
       <ul align="left">
-        <li>📱 <a href="https://github.com/l-limon-l/LimCore-Android"><b>LimCore for Android</b></a><br><i>VPN client for Android based on Xray-core. Subscriptions, share links and manual server setup, per-app split tunneling, routing and automatic updates.</i></li>
+        <li>📱 <a href="https://github.com/l-limon-l/LimCore"><b>LimCore for Android</b></a><br><i>VPN client for Android based on Xray-core. Subscriptions, share links and manual server setup, per-app split tunneling, routing and automatic updates.</i></li>
       </ul>
     </td>
     <td width="50%" valign="top">
       <ul align="left">
-        <li>🪟 <a href="https://github.com/l-limon-l/LimCore-Desktop"><b>LimCore for Windows</b></a><br><i>VPN client for Windows based on Xray-core, built with C++/Qt. System proxy and TUN modes, tray control, per-app proxy, routing and automatic updates.</i></li>
+        <li>🪟 <a href="https://github.com/l-limon-l/LimCore"><b>LimCore for Windows</b></a><br><i>VPN client for Windows based on Xray-core, built with C++/Qt. System proxy and TUN modes, tray control, per-app proxy, routing and automatic updates.</i></li>
       </ul>
     </td>
   </tr>
