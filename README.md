@@ -49,16 +49,22 @@
 
 <h2 align="center">🔥 Featured Projects</h2>
 
-<h3 align="center">🛡️ <a href="https://github.com/l-limon-l/LimCore">LimCore VPN</a></h3>
-
-<p align="center">
-  <i>Xray-core client for Android and Windows with the same look on both.<br>
-  Subscriptions, share links and manual servers, auto-select and ping test, per-app split tunneling, routing and automatic updates.</i>
-</p>
-
-<p align="center">
-  <a href="https://github.com/l-limon-l/LimCore"><img src="https://img.shields.io/badge/Download-Android%20%C2%B7%20Windows-f2f2f2?style=for-the-badge&logo=github&logoColor=white&labelColor=161616" alt="Download LimCore for Android and Windows" /></a>
-</p>
+<table align="center" width="100%">
+  <tr>
+    <td align="center">
+      <a href="https://github.com/l-limon-l/LimCore"><img src="https://raw.githubusercontent.com/l-limon-l/LimCore/main/media/banner.jpg" alt="LimCore" width="100%" /></a>
+      <h3>🛡️ <a href="https://github.com/l-limon-l/LimCore">LimCore VPN</a></h3>
+      <p>
+        <i>Xray-core client for Android and Windows with the same look on both.<br>
+        Subscriptions, share links and manual servers, auto-select and ping test, per-app split tunneling, routing and automatic updates.</i>
+      </p>
+      <a href="https://github.com/l-limon-l/LimCore"><img src="https://raw.githubusercontent.com/l-limon-l/LimCore/main/media/windows.jpg" alt="LimCore for Windows in dark and light themes" width="100%" /></a>
+      <p>
+        <a href="https://github.com/l-limon-l/LimCore"><img src="https://img.shields.io/badge/Download-Android%20%C2%B7%20Windows-f2f2f2?style=for-the-badge&logo=github&logoColor=white&labelColor=161616" alt="Download LimCore for Android and Windows" /></a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 <br>
 
