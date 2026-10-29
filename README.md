@@ -90,8 +90,8 @@
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=l-limon-l&amp;theme=tokyonight&amp;show_icons=true&amp;hide_border=true&amp;count_private=true&amp;locale=en&amp;card_width=355&amp;hide_rank=true" alt="GitHub Stats" width="49.5%" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=l-limon-l&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true" alt="Top Languages" width="49.5%" />
+  <img src="https://limcore.org/updates/github/stats.svg" alt="GitHub Stats" width="49.5%" />
+  <img src="https://limcore.org/updates/github/langs.svg" alt="Top Languages" width="49.5%" />
 </div>
 
 <br>
