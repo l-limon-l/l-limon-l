@@ -4,7 +4,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Breaking+DPI%2C+not+the+internet;Building+VPN+clients+for+Android+and+Windows;Automating+daily+tasks;Writing+clean+and+elegant+code" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Breaking+DPI%2C+not+the+internet;Building+LimCore+for+phones%2C+PCs+and+routers;Automating+daily+tasks;Writing+clean+and+elegant+code" alt="Typing SVG" />
   </a>
 </div>
 
@@ -15,10 +15,11 @@
     <td align="center" width="50%">
       <h2>👨‍💻 About Me</h2>
       <p align="left">
-        I'm a passionate developer focused on building <b>unconventional</b> and <b>highly useful</b> tools — from an Xray-based VPN client for Android and Windows to small scripts that automate the boring stuff.
+        I'm a passionate developer focused on building <b>unconventional</b> and <b>highly useful</b> tools — from LimCore, an Xray-based VPN client for Android, Windows, Linux, Steam Deck and OpenWrt routers, to small scripts that automate the boring stuff.
       </p>
       <p align="left">
         📫 <b>Reach me at:</b> <br>
+        🌐 <a href="https://limcore.org">limcore.org</a> <br>
         🔗 <a href="https://t.me/LimCoreChannel">https://t.me/LimCoreChannel</a> <br>
         🔗 <a href="https://e-z.bio/l_limon_l">e-z.bio/l_limon_l</a> <br>
         🔗 <a href="https://fakecrime.bio/l_limon_l">fakecrime.bio/l_limon_l</a>
@@ -27,7 +28,7 @@
     <td align="center" width="50%">
       <h2>🛠️ Tech Arsenal</h2>
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=kotlin,cpp,qt,go,py,cs" />
+        <img src="https://skillicons.dev/icons?i=kotlin,cpp,qt,go,py,php" />
       </a>
       <br><br>
       <a href="https://skillicons.dev">
@@ -52,15 +53,15 @@
 <table align="center" width="100%">
   <tr>
     <td align="center">
-      <a href="https://github.com/l-limon-l/LimCore"><img src="https://raw.githubusercontent.com/l-limon-l/LimCore/main/media/banner.jpg" alt="LimCore" width="100%" /></a>
-      <h3>🛡️ <a href="https://github.com/l-limon-l/LimCore">LimCore VPN</a></h3>
+      <a href="https://limcore.org"><img src="https://limcore.org/assets/github/limcore-banner.jpg" alt="LimCore" width="100%" /></a>
+      <h3>🛡️ <a href="https://limcore.org">LimCore</a></h3>
       <p>
-        <i>Xray-core client for Android and Windows with the same look on both.<br>
-        Subscriptions, share links and manual servers, auto-select and ping test, per-app split tunneling, routing and automatic updates.</i>
+        <i>Xray-core VPN client with one look everywhere: Android, Windows, Linux, Steam Deck and OpenWrt routers.<br>
+        Subscriptions, share links and manual servers, auto-select and ping test, per-app split tunneling, routing profiles and automatic updates.</i>
       </p>
-      <a href="https://github.com/l-limon-l/LimCore"><img src="https://raw.githubusercontent.com/l-limon-l/LimCore/main/media/windows.jpg" alt="LimCore for Windows in dark and light themes" width="100%" /></a>
+      <a href="https://limcore.org"><img src="https://limcore.org/assets/github/limcore-platforms.jpg" alt="LimCore on Android, Windows and Steam Deck" width="100%" /></a>
       <p>
-        <a href="https://github.com/l-limon-l/LimCore"><img src="https://img.shields.io/badge/Download-Android%20%C2%B7%20Windows-f2f2f2?style=for-the-badge&logo=github&logoColor=white&labelColor=161616" alt="Download LimCore for Android and Windows" /></a>
+        <a href="https://limcore.org"><img src="https://img.shields.io/badge/Download-limcore.org-f2f2f2?style=for-the-badge&labelColor=161616" alt="Download LimCore at limcore.org" /></a>
       </p>
     </td>
   </tr>
