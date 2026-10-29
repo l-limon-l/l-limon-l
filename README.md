@@ -79,31 +79,6 @@
   </tr>
 </table>
 
----
-
-<h2 align="center">📈 GitHub Activity & Stats</h2>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=l-limon-l&amp;theme=tokyonight&amp;hide_border=true" alt="GitHub Streak" width="100%" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://limcore.org/updates/github/stats.svg" alt="GitHub Stats" width="49.5%" />
-  <img src="https://limcore.org/updates/github/langs.svg" alt="Top Languages" width="49.5%" />
-</div>
-
-<br>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/l-limon-l/l-limon-l/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/l-limon-l/l-limon-l/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/l-limon-l/l-limon-l/output/github-contribution-grid-snake.svg" />
-  </picture>
-</p>
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&section=footer" />
 </div>
